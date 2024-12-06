@@ -1,3 +1,5 @@
+# --- Day 5: Print Queue ---
+
 from collections import defaultdict
 from functools import cmp_to_key
 from sys import argv
