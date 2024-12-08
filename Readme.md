@@ -16,6 +16,12 @@ You can view all my solutions in Python by clicking on the calendar below:
 
 _Input files are not shared here to preserve [Eric Wastl][was]'s copyright._
 
+But you can test each solution on sample data:
+
+```sh
+python3 src/01.py samples/01.txt
+```
+
 
 [aoc]: https://adventofcode.com/about
 [was]: http://was.tl/
