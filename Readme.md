@@ -14,13 +14,13 @@ You can view all my solutions in Python by clicking on the calendar below:
 |    22    |    23    |    24    |    25    |    26    |    27    |    28    |
 |    29    |    30    |    31    |          |          |          |          |
 
-_Input files are not shared here to preserve [Eric Wastl][was]'s copyright._
-
-But you can test each solution on sample data:
+You can test each solution on sample data:
 
 ```sh
 python3 src/01.py samples/01.txt
 ```
+
+_Actual input files are not shared here to preserve [Eric Wastl][was]'s copyright._
 
 
 [aoc]: https://adventofcode.com/about
